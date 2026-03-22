@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **.NET, C#, LINQ, SQL, React, Web Development**
 
-- 📫 How to reach me **📧 mohamedtarek.dev@gmail.com**
+- 📫 How to reach me **📧mohamedelsamady84@gmail.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
